@@ -14,7 +14,7 @@ I am currently an Application Developer Intern at AgFirst Farm Credit Bank, wher
 ![](https://github-readme-stats.vercel.app/api?username=GodKira1997&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GodKira1997&theme=one_dark_pro&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GodKira1997&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<div align="center">
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
