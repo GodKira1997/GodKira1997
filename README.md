@@ -12,7 +12,6 @@ I am currently an Application Developer Intern at AgFirst Farm Credit Bank, wher
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GodKira1997&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodKira1997&theme=one_dark_pro&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodKira1997&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
